@@ -1,0 +1,50 @@
+[
+	{
+		"privateKey": "632b075ca9cd853a6174cc98dce6e6d75965884479bd9eb1b5df4ef415af22fd",
+		"publicKey": "80f251095087d52a809bc772eb678db9c4458e44019b815fd19e684c8b38575d",
+		"address": "MR32CIQG3E3LWRPENK4I3VUT5NBJ2RJXENQJUXOD",
+		"endpoint": "http://node0:8080"
+	},
+	{
+		"privateKey": "4b096be0f06975429551e19f3ab47f854d34c305ebadbfc1366694edce3b4a08",
+		"publicKey": "13d7b217bb80cb6216900e73aec6af3eb24c35a43665950dcb1fd964264b9dd8",
+		"address": "MRQFUFCXPEVCNGNWJNOQBOCACGSW4PLOX4OGG5F2",
+		"endpoint": "http://node1:8080"
+	},
+	{
+		"privateKey": "5916c13c3e15bd3881f399e19ab94fafa9842b69146daaf2b0b02c375df71b3e",
+		"publicKey": "8a886a0a45803301fb72c23f0b6b2811d98f41d4f0ecacab2d3b3004a15afb39",
+		"address": "MQPLQQXOD735AN7R7QBW37URN4TWNY7NPGTDOPE4",
+		"endpoint": "http://node2:8080"
+	},
+	{
+		"privateKey": "00c10df101e850a58a895d47bc0b09ff2f5ed41be0f15bc05127abfd5b5b9f7b",
+		"publicKey": "67bdb966c9b6ac1b0945736d6efaa49bcd54a12d7fc2e4781a07997b0e400e6a",
+		"address": "MQEJCPXF4KB54DU3OXTZT6X6RUOPCA44TXUCYO4S",
+		"endpoint": "http://node3:8080"
+	},
+	{
+		"privateKey": "eed2583117c59b6169dd0a3e2cc1e17ed9a1bacab40421d37a0d399333876a6e",
+		"publicKey": "557fc2b7911f4fd9872d232cbd55ef299b3c4ce2a368dff10b51a8f98519a929",
+		"address": "MQONHGHSQB5HPBWGLBC4NLWM744TDLBBPUCJV6M7",
+		"endpoint": "http://node4:8080"
+	},
+	{
+		"privateKey": "fc0eda95c8c2acb1a5d70a0c73189a3fd7284bdcf0fbb7c94772a4f0e544a259",
+		"publicKey": "c6bfe761a7bc73555c60167d53c775171739b803cefd6e4ea658987451fe7d1e",
+		"address": "MQ47VJUDTUGQ7MNR54HUQSQF6E3U3A7G5US57QVV",
+		"endpoint": "http://node5:8080"
+	},
+	{
+		"privateKey": "b7242bc95dfc2644d189382fb4c06584b8a9b61c4ae653e535e5c2bdf5635584",
+		"publicKey": "643f597c5f37afb675535c2c6984125cb6e6f2a26ae4c29b1033a24c9ec7d3c7",
+		"address": "MSGH6SHYTUK32PBKNN73HF2CK6OP4ON5WF6ZK2V3",
+		"endpoint": "http://node6:8080"
+	},
+	{
+		"privateKey": "077e9fdc74b1a41ac8a863d4e654345cf0bf5c943c84e9abd06399d294ee4ef3",
+		"publicKey": "4dc56a375bf9f94e38b746764f55a91fba15c3540b4a32e84ece0931e7a26e81",
+		"address": "MTDULSHJYGDBXK4BNZGZCYHIINT47TJMFK3BUBW4",
+		"endpoint": "http://node7:8080"
+	}
+]

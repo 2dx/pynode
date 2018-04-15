@@ -1,0 +1,34 @@
+[
+	{
+		"publicKey": "80f251095087d52a809bc772eb678db9c4458e44019b815fd19e684c8b38575d",
+		"endpoint": "http://node0:8080"
+	},
+	{
+		"publicKey": "13d7b217bb80cb6216900e73aec6af3eb24c35a43665950dcb1fd964264b9dd8",
+		"endpoint": "http://node1:8080"
+	},
+	{
+		"publicKey": "8a886a0a45803301fb72c23f0b6b2811d98f41d4f0ecacab2d3b3004a15afb39",
+		"endpoint": "http://node2:8080"
+	},
+	{
+		"publicKey": "67bdb966c9b6ac1b0945736d6efaa49bcd54a12d7fc2e4781a07997b0e400e6a",
+		"endpoint": "http://node3:8080"
+	},
+	{
+		"publicKey": "557fc2b7911f4fd9872d232cbd55ef299b3c4ce2a368dff10b51a8f98519a929",
+		"endpoint": "http://node4:8080"
+	},
+	{
+		"publicKey": "c6bfe761a7bc73555c60167d53c775171739b803cefd6e4ea658987451fe7d1e",
+		"endpoint": "http://node5:8080"
+	},
+	{
+		"publicKey": "643f597c5f37afb675535c2c6984125cb6e6f2a26ae4c29b1033a24c9ec7d3c7",
+		"endpoint": "http://node6:8080"
+	},
+	{
+		"publicKey": "4dc56a375bf9f94e38b746764f55a91fba15c3540b4a32e84ece0931e7a26e81",
+		"endpoint": "http://node7:8080"
+	}
+]

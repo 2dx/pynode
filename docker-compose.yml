@@ -1,0 +1,90 @@
+version: '2'
+services:
+  node0:
+    build: "./"
+    working_dir: "/usr/src/pynode"
+    ports:
+     - "4000:8080"
+    environment:
+      PRIVATE_KEY: "632b075ca9cd853a6174cc98dce6e6d75965884479bd9eb1b5df4ef415af22fd"
+    volumes:
+     - "$PWD/src:/usr/src/pynode"
+     - "$PWD/blocks/node0:/root/blocks"
+    restart: always
+  node1:
+    build: "./"
+    working_dir: "/usr/src/pynode"
+    ports:
+     - "4001:8080"
+    environment:
+      PRIVATE_KEY: "4b096be0f06975429551e19f3ab47f854d34c305ebadbfc1366694edce3b4a08"
+    volumes:
+     - "$PWD/src:/usr/src/pynode"
+     - "$PWD/blocks/node1:/root/blocks"
+    restart: always
+  node2:
+    build: "./"
+    working_dir: "/usr/src/pynode"
+    ports:
+     - "4002:8080"
+    environment:
+      PRIVATE_KEY: "5916c13c3e15bd3881f399e19ab94fafa9842b69146daaf2b0b02c375df71b3e"
+    volumes:
+     - "$PWD/src:/usr/src/pynode"
+     - "$PWD/blocks/node2:/root/blocks"
+    restart: always
+  node3:
+    build: "./"
+    working_dir: "/usr/src/pynode"
+    ports:
+     - "4003:8080"
+    environment:
+      PRIVATE_KEY: "00c10df101e850a58a895d47bc0b09ff2f5ed41be0f15bc05127abfd5b5b9f7b"
+    volumes:
+     - "$PWD/src:/usr/src/pynode"
+     - "$PWD/blocks/node3:/root/blocks"
+    restart: always
+  node4:
+    build: "./"
+    working_dir: "/usr/src/pynode"
+    ports:
+     - "4004:8080"
+    environment:
+      PRIVATE_KEY: "eed2583117c59b6169dd0a3e2cc1e17ed9a1bacab40421d37a0d399333876a6e"
+    volumes:
+     - "$PWD/src:/usr/src/pynode"
+     - "$PWD/blocks/node4:/root/blocks"
+    restart: always
+  node5:
+    build: "./"
+    working_dir: "/usr/src/pynode"
+    ports:
+     - "4005:8080"
+    environment:
+      PRIVATE_KEY: "fc0eda95c8c2acb1a5d70a0c73189a3fd7284bdcf0fbb7c94772a4f0e544a259"
+    volumes:
+     - "$PWD/src:/usr/src/pynode"
+     - "$PWD/blocks/node5:/root/blocks"
+    restart: always
+  node6:
+    build: "./"
+    working_dir: "/usr/src/pynode"
+    ports:
+     - "4006:8080"
+    environment:
+      PRIVATE_KEY: "b7242bc95dfc2644d189382fb4c06584b8a9b61c4ae653e535e5c2bdf5635584"
+    volumes:
+     - "$PWD/src:/usr/src/pynode"
+     - "$PWD/blocks/node6:/root/blocks"
+    restart: always
+  node7:
+    build: "./"
+    working_dir: "/usr/src/pynode"
+    ports:
+     - "4007:8080"
+    environment:
+      PRIVATE_KEY: "077e9fdc74b1a41ac8a863d4e654345cf0bf5c943c84e9abd06399d294ee4ef3"
+    volumes:
+     - "$PWD/src:/usr/src/pynode"
+     - "$PWD/blocks/node7:/root/blocks"
+    restart: always
